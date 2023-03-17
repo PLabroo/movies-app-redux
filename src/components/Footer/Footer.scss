@@ -1,0 +1,20 @@
+@import "../../common/colors.scss";
+
+.footer {
+  background: $secondary-color;
+  height: 4rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: $font-secondary;
+  position: fixed;
+  bottom: 0;
+  width: 100vw;
+
+  img {
+    height: 3rem;
+    width: 6rem;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 20px;
+  }
+}
