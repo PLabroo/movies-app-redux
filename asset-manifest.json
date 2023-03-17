@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-app-redux/static/css/main.c146af7d.css",
+    "main.js": "/movies-app-redux/static/js/main.cf30cceb.js",
+    "index.html": "/movies-app-redux/index.html",
+    "main.c146af7d.css.map": "/movies-app-redux/static/css/main.c146af7d.css.map",
+    "main.cf30cceb.js.map": "/movies-app-redux/static/js/main.cf30cceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c146af7d.css",
+    "static/js/main.cf30cceb.js"
+  ]
+}
